@@ -22,7 +22,7 @@ pod 'TTAliNuiSDK'
 
 ## Author
 
-clt, lintao.cheng@leleketang.com
+clt, 253028824@qq.com
 
 ## License
 
