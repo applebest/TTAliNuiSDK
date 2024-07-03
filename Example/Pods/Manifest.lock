@@ -1,0 +1,16 @@
+PODS:
+  - TTAliNuiSDK (0.1.0)
+
+DEPENDENCIES:
+  - TTAliNuiSDK (from `../`)
+
+EXTERNAL SOURCES:
+  TTAliNuiSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TTAliNuiSDK: d212a05e77ce8d86ee6193cff8bdb139d245536f
+
+PODFILE CHECKSUM: b8db860cedf1ee5ed6b4a4fb791833b6413d63d5
+
+COCOAPODS: 1.15.2

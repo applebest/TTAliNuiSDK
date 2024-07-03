@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TTAliNuiSDK_Tests' do
+  pod 'TTAliNuiSDK', :path => '../'
+  
+  
+end
