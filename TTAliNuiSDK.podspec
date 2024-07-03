@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'clt' => 'lintao.cheng@leleketang.com' }
-  s.source           = { :git => 'https://github.com/clt/TTAliNuiSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/applebest/TTAliNuiSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.ios.deployment_target = '12.0'
   #s.platform     = :ios, "12.0"
